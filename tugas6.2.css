@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    margin: 0;
+    font-size: 200%;
+}
+
+nav{
+    background: pink;
+    height: 70vh;
+    width: 70vh;
+    padding: 20px;
+}
+
+header, footer{
+    background: khaki;
+    width: 190vh;
+    height: 10vh;
+    pad: 20px;
+}
+
+article{
+    width: 120vh;
+    height: 50vh;
+    padding: 20px;
+}
+
+aside{
+    background: aqua;
+    width: 63vh;
+    height: 50vh;
+    padding: 20px;
+}
+
+.isi {
+    display: flex;
+} 
